@@ -5,6 +5,6 @@ Análisis de nacimientos. Distinción entre volumen, proporción y tasa específ
 
 - Reporte PDF: `/docs`
 - Código reproducible: Python + pandas (tidy data)
-- DOI Zenodo: (aquí pegas tu DOI cuando lo tengas)
+- DOI Zenodo: [[DOI](https://zenodo.org/badge/1382139468.svg)](https://doi.org/10.5281/zenodo.22903685)
 
 Licencia: CC BY 4.0
